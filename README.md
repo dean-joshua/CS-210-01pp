@@ -1,18 +1,18 @@
 # Overview
+This is a simple implementation of the game HiLo. It was developed by me, Joshua Dean. The point of the program is to generate a card, have the user guess if the next card will be higher or lower than the current card, and then assign or remove points based on a correct guess.
 
-
-[Software Demo Video](https://youtu.be/zxGCrqi_Obw)
+[Software Demo Video]()
 
 # Development Environment
-
+This program was developed in VS Code using Pything.
 
 # Useful Websites
 
-* [Django Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-django)
-* [Django File and Image Upload Tutorial](https://learndjango.com/tutorials/django-file-and-image-uploads-tutorial)
+* [Assignment Requirement Page](https://byui-cse.github.io/cse210-course-competency/01-introduction/hilo_requirements.html)
+* [W3 Schools Python](https://www.w3schools.com/python/)
 
 # Future Work
 
-* Add a short description to the Projects Model for displaying on view of all projects
-* Add the rest of my personal projects to the Database
-* Embedded Youtube videos on the detailed Project Page
+* Add a better user interface
+* Add an option to save a game and open it later
+* Add an option to check high-score
